@@ -1,4 +1,4 @@
-## Hey there :wave:	, I'm Sudhanshu! Good to se you here!
+## Hey there :wave:	, I'm Sudhanshu! Good to see you here!
 
 <p align="center">
  <img
