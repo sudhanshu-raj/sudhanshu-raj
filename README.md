@@ -3,7 +3,11 @@
 - 🌱 I’m currently learning Data Structure Algorithms
 - 📫 How to reach me rajsudhanshu9431@gmail.com
 
-<!---
-sudhanshu-raj/sudhanshu-raj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hello everyone,I'm sudhanshu
+ <img
+  src="/assets/boy-laptop-small.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display:block; margin:200px auto; width: 50%">  
+
+
