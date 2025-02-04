@@ -1,6 +1,6 @@
 ## Hey there :wave:	, I'm Sudhanshu! Good to see you here!
   
-  Hii, I'm just entering my feet into the opensource world :globe_with_meridians:	.Although this is my 1st year of college :school:	 ,I started coding from my school age and from then I continously grew my learning in this tech field.I love to make the stuffs automated and this is how I love python. Currently I'm putting more efforts on learning & I'm excited :sunglasses:		 towards my journey of opensource
+  Hii, I'm just entering my feet into the opensource world :globe_with_meridians:	 ,I started coding from my school age and from then I continously grew my learning in this tech field.I love to make the stuffs automated and this is how I love python. Currently I'm putting more efforts on learning & I'm excited :sunglasses:		 towards my journey of opensource
   <hr>
  
 **Short Discription :** 
