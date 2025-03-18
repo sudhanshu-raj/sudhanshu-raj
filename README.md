@@ -5,8 +5,6 @@
  
 **Short Discription :** 
 
--  🔎 Looking for python and java projects 
--  💻 Currently Learning Python 
 - :mechanical_arm:	 Always open to learn AI,IoT and Robot stuffs 
 - ⚡ Fun fact I love flying Drones 
 - 📫 How to reach me rajsudhanshu9431@gmail.com
