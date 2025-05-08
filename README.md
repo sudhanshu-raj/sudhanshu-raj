@@ -6,7 +6,7 @@
 **Short Discription :** 
 
 - :mechanical_arm:	 Always open to learn AI,IoT and Robot stuffs 
-- ⚡ Fun fact I love flying Drones 
+- ⚡ Fun fact I love drone stuffs 
 - 📫 How to reach me rajsudhanshu9431@gmail.com
 
 <hr>
