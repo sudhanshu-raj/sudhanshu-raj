@@ -1,6 +1,6 @@
 ## Hey there :wave:	,
   
- Basic goal of my life :- Turning ideas into code, and code into change.
+ Basic goal :- Turning ideas into code, and code into change.
   <hr>
  
 **Short Discription :** 
